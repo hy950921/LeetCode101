@@ -4,7 +4,11 @@
 
 
 
+<br/>
 
+<br/>
+
+<br/>
 
 1. Two pointers mainly use to iterate array, they point to different elements to finish the task, it can be extended as multiple arrays with multiple pointers.
 2. If two pointers iterate the same array with the **same direction**, this approach also called sliding window as it uses to search in a fixed width.
